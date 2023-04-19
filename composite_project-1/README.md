@@ -12,13 +12,14 @@ The following data is available:<br>
  - Other_sales - sales in other countries (millions of copies sold)
  - Critic_Score - the critic score (maximum 100)
  - User_Score - the user score (maximum 10)
- - Rating - the rating assigned by the Entertainment Software Rating Board (ESRB), which determines the appropriate age category for computer games.
+ - Rating - the rating assigned by the Entertainment Software Rating Board (ESRB),
+            which determines the appropriate age category for computer games.
 Data for the year 2016 may be incomplete.</pre>
 
 ## Task
 The task is to identify patterns that determine the success of a game.
 
-<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Statistical_Data_Analysis/blob/master/composite_project-1/Composite_Project-1_fin.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
+<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Composite_Project-1/blob/master/composite_project-1/Composite_Project-1_fin.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
 
 ## Libraries used
 <i>pandas, numpy, seaborn, matplotlib.pyplot, matplotlib.colors, scipy, scipy.interpolate, scipy.stats, IPython</i>
