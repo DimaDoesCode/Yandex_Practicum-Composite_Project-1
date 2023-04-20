@@ -5,7 +5,7 @@
 *Project Description*
 
 <img src="https://github.com/DimaDoesCode/Yandex_Practicum-Composite_Project-1/raw/master/video_game.png" width="200" height="200" align="left"/>
-You work at "StreamChick", an online store that sells computer games worldwide. Historical data on game sales, user and expert ratings, genres, and platforms (such as Xbox or PlayStation) are available from open sources. Your task is to identify patterns that determine the success of a game. This will allow you to place bets on potentially popular products and plan advertising campaigns.
+You work at "StreamQueen", an online store that sells computer games worldwide. Historical data on game sales, user and expert ratings, genres, and platforms (such as Xbox or PlayStation) are available from open sources. Your task is to identify patterns that determine the success of a game. This will allow you to place bets on potentially popular products and plan advertising campaigns.
 
 You have data up until 2016. Let's assume it's December 2016, and you're planning a campaign for 2017. It doesn't matter whether you're forecasting sales for 2017 based on data from 2016 or 2027 based on data from 2026 - the principle of working with data needs to be worked out.
 
