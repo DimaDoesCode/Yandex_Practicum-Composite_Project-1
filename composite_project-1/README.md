@@ -22,4 +22,4 @@ The task is to identify patterns that determine the success of a game.
 <a href="https://github.com/DimaDoesCode/Yandex_Practicum-Composite_Project-1/blob/master/composite_project-1/Composite_Project-1_fin.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
 
 ## Libraries used
-<i>pandas, numpy, seaborn, matplotlib.pyplot, matplotlib.colors, scipy, scipy.interpolate, scipy.stats, IPython, requests, os,csv, io</i>
+<i>pandas, numpy, seaborn, matplotlib.pyplot, matplotlib.colors, scipy, scipy.interpolate, scipy.stats, IPython, requests, os,csv, io, urllib.request</i>
