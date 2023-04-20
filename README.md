@@ -15,4 +15,4 @@ The data set includes the abbreviation ESRB (Entertainment Software Rating Board
 
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Composite Project - 1](composite_project-1) | The task is to identify patterns that determine the success of a game. | <i>pandas, numpy, seaborn, matplotlib.pyplot, matplotlib.colors, scipy, scipy.interpolate, scipy.stats, IPython</i>|
+| [Composite Project - 1](composite_project-1) | The task is to identify patterns that determine the success of a game. | <i>pandas, numpy, seaborn, matplotlib.pyplot, matplotlib.colors, scipy, scipy.interpolate, scipy.stats, IPython, requests, os,csv, io</i>|
